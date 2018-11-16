@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define SIZE 20
+#define SIZE 20000
 
 void arrayShift(int array[], int start, int end) {
 	int index;
